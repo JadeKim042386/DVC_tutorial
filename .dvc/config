@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = /Users/joo/Desktop/DVC_tutorial/dataset
